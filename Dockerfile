@@ -1,5 +1,5 @@
 FROM tomcat:7
-MAINTAINER PRASUNA
+MAINTAINER VINDHYA PRASUNA
 RUN apt-get -y update 
 RUN useradd vindhya
 USER vindhya
